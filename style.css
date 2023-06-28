@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(255, 248, 151);
+}
+
+#update{
+    font-size: 20px;
+   float:left;
+    color: white;
+    background-color: coral;
+}
+
+#update_time{
+    font-size: 20px;
+  float: right;
+  color: white;
+  background-color: coral;
+}
+
+#drawn{
+    color:red;
+    font-size: 20;
+    font-style: bold;
+}
+
+#my_sketch{
+    background-color: firebrick;
+    color: white;
+    font-size: 15px;
+}
+
+#confidence{
+    background-color: firebrick;
+    color: white;
+    font-size: 15px;
+}
+
+
+
+
+
+#show_sketch{
+    float: right;
+}
